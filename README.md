@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend web development**
 
-- 💬 Ask me about **Html, CSS, JS and Python**
+- 💬 Ask me about **Html, CSS, JS, Python & Flutter**
 
 - 📫 How to reach me **prasiddha.thapaliya.1@gmail.com**
 

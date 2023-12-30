@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Prasiddha Thapaliya</h1>
-<h3 align="center">Final Year IT student from Nepal</h3>
+<h3 align="center">IT student at Seneca Polytechnic, Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithprasiddha&label=Profile%20views&color=0e75b6&style=flat" alt="codewithprasiddha" /> </p>
 
 - 🔭 I’m currently working on **Virtual Consultation App**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Html, Css & JavaScript**
+- 💬 Ask me about **Web & Mobile Development**
 
-- 📫 How to reach me **prasiddha2875@gmail.com**
+- 📫 How to reach me **th.prasiddha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

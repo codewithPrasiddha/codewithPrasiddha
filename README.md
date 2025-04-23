@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasiddha Thapaliya</h1>
-<h3 align="center">IT student at Seneca Polytechnic, Canada</h3>
+<h3 align="center">Google IT Support Certified | Microsoft IT Support Specialist Certified</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithprasiddha&label=Profile%20views&color=0e75b6&style=flat" alt="codewithprasiddha" /> </p>
 

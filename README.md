@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithprasiddha&label=Profile%20views&color=0e75b6&style=flat" alt="codewithprasiddha" /> </p>
 
-- 🔭 I’m currently working on **Virtual Consultation App**
+- 🔭 I’m currently working on **Project OSmith**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Diagnosis and Debugging on OS's**
 
-- 💬 Ask me about **Web & Mobile Development**
+- 💬 Ask me about **Web Development and Troubleshooting**
 
 - 📫 How to reach me **th.prasiddha@gmail.com**
 

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prasiddha Thapaliya</h1>
-<h3 align="center">Google IT Support Certified | Microsoft IT Support Specialist Certified</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithprasiddha&label=Profile%20views&color=0e75b6&style=flat" alt="codewithprasiddha" /> </p>
 
-- 🔭 I’m currently working on **Project OSmith**
+- 🔭 I’m currently working on **NorthBridge IT Solutions**
 
 - 🌱 I’m currently learning **Diagnosis and Debugging on OS's**
 

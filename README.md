@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Development and Troubleshooting**
 
-- 📫 How to reach me **th.prasiddha@gmail.com**
+- 📫 How to reach me **prasiddha@northbridgeit.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
